@@ -1,0 +1,1 @@
+import{_ as e}from"./way-of-thinking-analysis-ad554127.js";import{_ as t,V as o,W as s,Y as _}from"./framework-a569e214.js";const a={},c=_("figure",null,[_("img",{src:e,alt:"",tabindex:"0",loading:"lazy"}),_("figcaption")],-1),n=[c];function r(i,l){return o(),s("div",null,n)}const d=t(a,[["render",r],["__file","06.实际项目认证思路分析.html.vue"]]);export{d as default};

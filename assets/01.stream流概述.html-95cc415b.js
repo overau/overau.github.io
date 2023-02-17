@@ -1,0 +1,1 @@
+import{_ as e,V as t,W as _,Y as s}from"./framework-a569e214.js";const a={},c=s("p",null,"Java8的stream使用的是函数式编程模式，可以用来对集合或数组进行链状流式的操作，可以让我们更方便的对数据或者集合操作。",-1),o=[c];function r(n,l){return t(),_("div",null,o)}const d=e(a,[["render",r],["__file","01.stream流概述.html.vue"]]);export{d as default};
