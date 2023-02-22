@@ -1,0 +1,1 @@
+import{_,V as o,W as t,Y as e}from"./framework-a569e214.js";const l={},n=e("blockquote",null,[e("p",null,"需求分析")],-1),c=e("blockquote",null,[e("p",null,"代码开发")],-1),s=e("blockquote",null,[e("p",null,"功能测试")],-1),u=[n,c,s];function r(a,d){return o(),t("div",null,u)}const f=_(l,[["render",r],["__file","16.修改菜品.html.vue"]]);export{f as default};
